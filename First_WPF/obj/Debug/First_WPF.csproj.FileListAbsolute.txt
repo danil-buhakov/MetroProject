@@ -1,0 +1,14 @@
+D:\Programming\Projects\First_WPF\First_WPF\bin\Debug\First_WPF.exe.config
+D:\Programming\Projects\First_WPF\First_WPF\bin\Debug\First_WPF.exe
+D:\Programming\Projects\First_WPF\First_WPF\bin\Debug\First_WPF.pdb
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\First_WPF.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\MainWindow.g.cs
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\App.g.cs
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\First_WPF_MarkupCompile.cache
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\First_WPF_MarkupCompile.lref
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\MainWindow.baml
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\First_WPF.g.resources
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\First_WPF.Properties.Resources.resources
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\First_WPF.csproj.GenerateResource.Cache
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\First_WPF.exe
+D:\Programming\Projects\First_WPF\First_WPF\obj\Debug\First_WPF.pdb
