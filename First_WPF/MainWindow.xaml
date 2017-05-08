@@ -7,14 +7,14 @@
         mc:Ignorable="d"
         HorizontalAlignment="Center"
         VerticalAlignment="Center"
-        Title="MainWindow" Height="700" Width="900" ResizeMode="NoResize">
+        Title="Metro Navigation" Height="700" Width="900" ResizeMode="NoResize" Icon="/bin/Debug/4174-200.ico">
     <Canvas x:Name="cnvsMain" Height="669" VerticalAlignment="Bottom" >
         <Image Source="bin/debug/metroMap.png" Height="659" Canvas.Left="10" Canvas.Top="10" Width="882" />
-        <Button x:Name="btnStart" Canvas.Left="466" Canvas.Top="10" Width="100" Height="25" Content="Поехали!" Click="button1_Click" />
+        <Button x:Name="btnStart" Canvas.Left="466" Canvas.Top="10" Width="100" Height="25" Content="Поехали!" Click="button1_Click" FontFamily="Book Antiqua" />
         <Image x:Name="imgHuman" Source="bin/debug/human.png" Height="64" Width="50" Visibility="Hidden" Canvas.Top="144" Canvas.Left="662" />
-        <ComboBox x:Name="cbxStart" Canvas.Left="78" Canvas.Top="14" Width="120" />
-        <ComboBox x:Name="cbxEnd" Canvas.Left="306" Canvas.Top="14" Width="120" />
-        <Label Content="Из" Canvas.Left="34" Canvas.Top="10"/>
-        <Label Content="В" Canvas.Left="269" Canvas.Top="6"/>
+        <ComboBox x:Name="cbxStart" Canvas.Left="78" Canvas.Top="14" Width="120" FontFamily="Book Antiqua" />
+        <ComboBox x:Name="cbxEnd" Canvas.Left="306" Canvas.Top="14" Width="120" FontFamily="Book Antiqua" />
+        <Label Content="Из" Canvas.Left="34" Canvas.Top="10" FontFamily="Book Antiqua"/>
+        <Label Content="В" Canvas.Left="263" Canvas.Top="10" FontFamily="Book Antiqua"/>
     </Canvas>
 </Window>

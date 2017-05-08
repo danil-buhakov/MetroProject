@@ -50,7 +50,7 @@ namespace First_WPF
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            if ((cbxStart.SelectedIndex != -1) && (cbxEnd.SelectedIndex != -1))
+            if ((cbxStart.SelectedIndex != -1) && (cbxEnd.SelectedIndex != -1)&&(cbxStart.SelectedIndex!=cbxEnd.SelectedIndex))
             {
                 PathGeometry animPath = new PathGeometry();
                 PathFigure pf = new PathFigure();
